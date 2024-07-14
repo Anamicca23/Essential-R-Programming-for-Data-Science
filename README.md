@@ -37,9 +37,8 @@ To clone the repository to your local computer, follow these steps:
 
 ### Run the Clone Command
 ```sh
-git clone https://github.com/Owner/Essential-R-Programming-for-Data-Science.git
+git clone https://github.com/Anamicca23/Essential-R-Programming-for-Data-Science.git
 ```
-Make sure to replace `Owner` with the actual username of the repository owner. If you are the owner, it will be your GitHub username.
 
 ## 3. Navigate to the Repository
 After cloning the repository, navigate into the repository directory:
@@ -59,7 +58,7 @@ ls
 
 ```sh
 # Clone the repository
-git clone https://github.com/Owner/Essential-R-Programming-for-Data-Science.git
+git clone https://github.com/Anamicca23/Essential-R-Programming-for-Data-Science.git
 
 # Navigate into the repository
 cd Essential-R-Programming-for-Data-Science
