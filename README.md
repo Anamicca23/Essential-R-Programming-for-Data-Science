@@ -1,7 +1,8 @@
-<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqv2Ohk3uDzHq1-DMe0BgmrzRUsa3eF7dUoA&s" height = "580" breadth="700"/>
-
 # Essential R Programming for Data Science
 All essentials to know in R programming to dive into Data Science.
+
+<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqv2Ohk3uDzHq1-DMe0BgmrzRUsa3eF7dUoA&s" height = "580" breadth="700"/>
+
 
 ## About
 This repository is designed to help you master the essentials of R programming for data science. It covers a wide range of topics, from basic starting up to advanced programming topics. Each chapter includes a detailed explanation of concepts, code examples, and practical exercises to solidify your understanding.
