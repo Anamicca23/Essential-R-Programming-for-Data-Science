@@ -1,4 +1,4 @@
-<img src="https://media.istockphoto.com/id/1400238540/photo/registered-mark-on-digital-background.jpg?s=612x612&w=0&k=20&c=YtS8Vj8peAk4rO3aWz_6K8Gj7nfX7LcsavpaRYoghyw=" height="580" breadth="700" />
+<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqv2Ohk3uDzHq1-DMe0BgmrzRUsa3eF7dUoA&s" height = "580" breadth="700"/>
 
 # Essential R Programming for Data Science
 All essentials to know in R programming to dive into Data Science.
